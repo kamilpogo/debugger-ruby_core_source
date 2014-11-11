@@ -22,6 +22,7 @@ To add another ruby version's source to this gem's directory:
     $ rake add_source VERSION=1.9.3-p0
 
 ##Credits
+* @moneill for 1.9.3-p550 headers
 * @reedloden for 1.9.3-p547 headers
 * @andremedeiros for 2.1.1 headers
 * @stepheneb for 1.9.2-p320 headers
